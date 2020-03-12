@@ -1,8 +1,8 @@
 Package: tableschema.r
 Type: Package
-Title: Frictionless Data Table Schema
-Version: 1.1.0
-Date: 2018-11-5
+Title: Table Schema 'Frictionless Data'
+Version: 1.1.1
+Date: 2020-03-11
 Authors@R: c(person("Kleanthis", "Koupidis", email = "koupidis@okfn.gr", role = c("aut", "cre")), 
             person("Lazaros", "Ioannidis", email = "larjohn@gmail.com", role = "aut"),
             person("Charalampos", "Bratsas", email = "cbratsas@math.auth.gr", role = "aut"),
@@ -31,12 +31,12 @@ Collate: 'constraints.checkUnique.R' 'constraints.checkRequired.R'
         'is.valid.R' 'tableschemaerror.R' 'profile.R' 'readable.R'
         'readable.array.R' 'readable.connection.R' 'schema.R' 'table.R'
         'tableschema.r.R' 'validate.R' 'writable.R'
-RoxygenNote: 6.1.0.9000
+RoxygenNote: 7.0.2
 NeedsCompilation: no
-Packaged: 2018-11-14 15:09:47 UTC; akis_
+Packaged: 2020-03-12 10:25:23 UTC; kleanthis-okfngr
 Author: Kleanthis Koupidis [aut, cre],
   Lazaros Ioannidis [aut],
   Charalampos Bratsas [aut],
   Open Knowledge International [cph]
 Repository: CRAN
-Date/Publication: 2018-11-14 16:50:03 UTC
+Date/Publication: 2020-03-12 12:40:02 UTC
